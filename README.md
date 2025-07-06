@@ -93,7 +93,3 @@ plant_website/
 ## 📄 License
 
 This project is licensed under the ISC License.
-
-## 📧 Contact
-
-For questions or support, please contact: lightcodecamp@gmail.com
